@@ -2,7 +2,7 @@ markdown
 
 # My Terraform Homework
 
-This repository contains Terraform code for managing [describe what your Terraform code does, e.g., infrastructure on AWS].
+This repository contains Terraform code for managing 2 VPCs, 2 S3 Buckets, and 2 EC2 insntances.
 
 ## Table of Contents
 
