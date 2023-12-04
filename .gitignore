@@ -1,0 +1,14 @@
+# Terraform files
+*.tfstate
+*.tfstate.*
+*.tfvars
+terraform.tfvars
+.terraform/
+
+# Exclude specific files
+provider.tf
+resource.tf
+variable.tf
+
+# Exclude directories (if any)
+# directory_name/
